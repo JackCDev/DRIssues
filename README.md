@@ -1,8 +1,3 @@
-# DRIssues
-
-
-Report issues to this Repository for Dungeon Realms.
-
 
 # Dungeon Realms Issues Format
 
