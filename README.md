@@ -15,7 +15,10 @@
 
 
 **IGN:**
+
 **Severity(Major, Medium, or Small):**
+
 **Explanation:** 
+
 **How to reproduce:**
 
